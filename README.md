@@ -1,11 +1,18 @@
 ## xcode-fish
 
-Find and open `xcworkspace` or `xcproject` in Xcode.
+Find and open `xcworkspace` or `xcproject` in Xcode. As an added bonus, you can open files or folders in Xcode if you specify an argument.
 
 ## Usage
 
+#### Open workspace or project
 ```
 > xc
+```
+
+### Open files or folders
+
+```
+> xc Podfile
 ```
 
 ## Contribute
