@@ -18,4 +18,4 @@ Find and open `xcworkspace` or `xcproject` in Xcode.
 
 ## Thanks
 
-Inspired by xc for zsh (original author [@subdigital](https://github.com/subdigital)
+Inspired by xc for zsh (original author [@subdigital](https://github.com/subdigital))
