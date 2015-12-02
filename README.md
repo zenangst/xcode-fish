@@ -9,7 +9,7 @@ Find and open `xcworkspace` or `xcproject` in Xcode. As an added bonus, you can 
 > xc
 ```
 
-### Open files or folders
+#### Open files or folders
 
 ```
 > xc Podfile
